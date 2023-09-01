@@ -1,5 +1,5 @@
 # Hello, I'm Brian 👋
- I'm a Computer Science and Medicine student at Boston University, with strong interests in the intersection of these two disciplines, Applications of Machine Learning, and Full Stack Development. In my free time, I enjoy working on personal coding projects and contributing to open source projects. I'm always looking for new oppurtunies, feel free to reach out to me.
+ I'm a Computer Science and Medicine student at Boston University, with strong interests in the intersection of these two disciplines. In my free time, I enjoy working on personal coding projects and contributing to open source projects. I'm always looking for new oppurtunies, feel free to reach out to me.
  
 
 
